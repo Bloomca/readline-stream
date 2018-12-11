@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/Bloomca/readline-stream/issues"
   },
-  "homepage": "https://github.com/Bloomca/readline-stream#readme"
+  "homepage": "https://github.com/Bloomca/readline-stream#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
 }
