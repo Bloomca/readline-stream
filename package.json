@@ -1,0 +1,28 @@
+{
+  "name": "stream-readline",
+  "version": "1.0.0",
+  "description": "Node.js stream to read line by line",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bloomca/readline-stream.git"
+  },
+  "keywords": [
+    "Streams",
+    "Node.js",
+    "streams",
+    "stream",
+    "line",
+    "by",
+    "line"
+  ],
+  "author": "Seva Zaikov <seva.zaikov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bloomca/readline-stream/issues"
+  },
+  "homepage": "https://github.com/Bloomca/readline-stream#readme"
+}
